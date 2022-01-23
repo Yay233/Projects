@@ -1,0 +1,233 @@
+2022-01-20 18:10:12,617:INFO:Initializing load_model()
+2022-01-20 18:10:12,618:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:14:54,960:INFO:Initializing load_model()
+2022-01-20 18:14:54,960:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:14:57,223:INFO:Initializing load_model()
+2022-01-20 18:14:57,223:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:19:25,871:INFO:Initializing load_model()
+2022-01-20 18:19:25,871:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:20:31,205:INFO:Initializing load_model()
+2022-01-20 18:20:31,205:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:22:45,226:INFO:Initializing predict_model()
+2022-01-20 18:22:45,227:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                ['trained_model',
+                 PowerTransformedTargetRegressor(ccp_alpha=0.0, criterion='mse',
+                                                 max_depth=None,
+                                                 max_features=None,
+                                                 max_leaf_nodes=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 presort='deprecated',
+                                                 random_state=7202,
+                                                 regressor=DecisionTreeRegressor(random_state=7202),
+                                                 splitter='best')]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-20 18:22:45,227:INFO:Checking exceptions
+2022-01-20 18:22:45,227:INFO:Preloading libraries
+2022-01-20 18:36:42,830:INFO:Initializing load_model()
+2022-01-20 18:36:42,831:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:36:45,200:INFO:Initializing load_model()
+2022-01-20 18:36:45,200:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:42:56,422:INFO:Initializing predict_model()
+2022-01-20 18:42:56,423:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                ['trained_model',
+                 PowerTransformedTargetRegressor(ccp_alpha=0.0, criterion='mse',
+                                                 max_depth=None,
+                                                 max_features=None,
+                                                 max_leaf_nodes=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 presort='deprecated',
+                                                 random_state=7202,
+                                                 regressor=DecisionTreeRegressor(random_state=7202),
+                                                 splitter='best')]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-20 18:42:56,423:INFO:Checking exceptions
+2022-01-20 18:42:56,423:INFO:Preloading libraries
+2022-01-20 18:46:50,472:INFO:Initializing load_model()
+2022-01-20 18:46:50,472:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:46:58,663:INFO:Initializing load_model()
+2022-01-20 18:46:58,663:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:47:08,066:INFO:Initializing load_model()
+2022-01-20 18:47:08,066:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 18:48:28,460:INFO:Initializing predict_model()
+2022-01-20 18:48:28,460:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                ['trained_model',
+                 PowerTransformedTargetRegressor(ccp_alpha=0.0, criterion='mse',
+                                                 max_depth=None,
+                                                 max_features=None,
+                                                 max_leaf_nodes=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 presort='deprecated',
+                                                 random_state=7202,
+                                                 regressor=DecisionTreeRegressor(random_state=7202),
+                                                 splitter='best')]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-20 18:48:28,460:INFO:Checking exceptions
+2022-01-20 18:48:28,460:INFO:Preloading libraries
+2022-01-20 19:02:30,849:INFO:Initializing load_model()
+2022-01-20 19:02:30,850:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 19:02:44,225:INFO:Initializing predict_model()
+2022-01-20 19:02:44,225:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                ['trained_model',
+                 PowerTransformedTargetRegressor(ccp_alpha=0.0, criterion='mse',
+                                                 max_depth=None,
+                                                 max_features=None,
+                                                 max_leaf_nodes=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 presort='deprecated',
+                                                 random_state=7202,
+                                                 regressor=DecisionTreeRegressor(random_state=7202),
+                                                 splitter='best')]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-20 19:02:44,225:INFO:Checking exceptions
+2022-01-20 19:02:44,225:INFO:Preloading libraries
+2022-01-20 19:15:12,648:INFO:Initializing load_model()
+2022-01-20 19:15:12,650:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 19:15:15,182:INFO:Initializing load_model()
+2022-01-20 19:15:15,182:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-20 19:15:55,543:INFO:Initializing predict_model()
+2022-01-20 19:15:55,544:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                ['trained_model',
+                 PowerTransformedTargetRegressor(ccp_alpha=0.0, criterion='mse',
+                                                 max_depth=None,
+                                                 max_features=None,
+                                                 max_leaf_nodes=None,
+                                                 min_impurity_decrease=0.0,
+                                                 min_impurity_split=None,
+                                                 min_samples_leaf=1,
+                                                 min_samples_split=2,
+                                                 min_weight_fraction_leaf=0.0,
+                                                 presort='deprecated',
+                                                 random_state=7202,
+                                                 regressor=DecisionTreeRegressor(random_state=7202),
+                                                 splitter='best')]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-20 19:15:55,544:INFO:Checking exceptions
+2022-01-20 19:15:55,544:INFO:Preloading libraries
+2022-01-21 10:44:50,359:INFO:Initializing load_model()
+2022-01-21 10:44:50,359:INFO:load_model(model_name=my_first_pipeline, platform=None, authentication=None, verbose=True)
+2022-01-21 10:51:43,355:INFO:Initializing predict_model()
+2022-01-21 10:51:43,355:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                                                 colsample_bytree=1.0,
+                                                 importance_type='split',
+                                                 learning_rate=0.1,
+                                                 max_depth=-1,
+                                                 min_child_samples=20,
+                                                 min_child_weight=0.001,
+                                                 min_split_gain=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 num_leaves=31, objective=None,
+                                                 random_state=4111,
+                                                 reg_alpha=0.0, reg_lambda=0.0,
+                                                 regressor=LGBMRegressor(random_state=4111),
+                                                 silent='warn', subsample=1.0,
+                                                 subsample_for_bin=200000,
+                                                 subsample_freq=0)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-21 10:51:43,355:INFO:Checking exceptions
+2022-01-21 10:51:43,355:INFO:Preloading libraries
+2022-01-22 18:46:17,262:INFO:Initializing predict_model()
+2022-01-22 18:46:17,264:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='regression', target='Price')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target='P...
+                                                 colsample_bytree=1.0,
+                                                 importance_type='split',
+                                                 learning_rate=0.1,
+                                                 max_depth=-1,
+                                                 min_child_samples=20,
+                                                 min_child_weight=0.001,
+                                                 min_split_gain=0.0,
+                                                 n_estimators=100, n_jobs=-1,
+                                                 num_leaves=31, objective=None,
+                                                 random_state=4111,
+                                                 reg_alpha=0.0, reg_lambda=0.0,
+                                                 regressor=LGBMRegressor(random_state=4111),
+                                                 silent='warn', subsample=1.0,
+                                                 subsample_for_bin=200000,
+                                                 subsample_freq=0)]]), probability_threshold=None, encoded_labels=True, drift_report=False, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-01-22 18:46:17,264:INFO:Checking exceptions
+2022-01-22 18:46:17,264:INFO:Preloading libraries
