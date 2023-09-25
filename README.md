@@ -1,2 +1,2 @@
 # Projects
-This repository contains data science projects I have worked on 
+This repository contains sample data science projects
